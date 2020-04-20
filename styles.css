@@ -1,0 +1,27 @@
+body, html {
+  height: 100%;
+    margin: 0;
+}
+
+.bg-img{
+        background-image: url(Login.jpg);
+         background-repeat: no-repeat;
+         background-size: cover;
+    height: 100%;
+    background-position: center;
+       
+ }
+
+/*.container {
+    
+  position: center;
+  margin-top: 50px;
+  max-width: 300px;
+  padding: 16px;
+  background-color: white;
+}*/
+
+.login-display{
+    padding-top: 10%;
+}
+
